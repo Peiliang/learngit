@@ -1,4 +1,3 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a utable index called stage.
-see whether 'commit' code commit the content of working directory or that of stage
