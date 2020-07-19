@@ -1,1 +1,2 @@
 LICENSE text file
+see whether 'commit' code commit the content of working directory or that of stage.
