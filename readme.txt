@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a utable index called stage.
 Working directory
 Stage directory
+Git tracks changes.
