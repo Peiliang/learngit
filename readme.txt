@@ -4,3 +4,5 @@ Git has a utable index called stage.
 Working directory
 Stage directory
 Git tracks changes of files.
+My stuipid boss still prefers SVN.
+Creating a new branch is quick.
