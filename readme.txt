@@ -6,3 +6,4 @@ Stage directory
 Git tracks changes of files.
 My stuipid boss still prefers SVN.
 Creating a new branch is quick and simple.
+add merge
