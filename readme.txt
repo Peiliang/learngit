@@ -5,5 +5,4 @@ Working directory
 Stage directory
 Git tracks changes of files.
 My stuipid boss still prefers SVN.
-<<<<<<< HEAD
 Creating a new branch is quick and simple.
